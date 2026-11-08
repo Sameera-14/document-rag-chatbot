@@ -1,0 +1,11 @@
+
+chromadb
+sentence-transformers
+transformers
+torch
+pypdf
+tiktoken
+numpy
+streamlit
+pytest
+python-dotenv
